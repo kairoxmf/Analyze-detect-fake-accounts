@@ -1,0 +1,40 @@
+{
+  "name": "brainwave",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "backend": "cd backend && python app.py",
+    "dev:site": "cross-env VITE_APP_ROLE=site VITE_ADMIN_PORTAL_URL=http://localhost:5180 VITE_SUPPORT_PORTAL_URL=http://localhost:5181 vite --port 5173",
+    "dev:admin": "cross-env VITE_APP_ROLE=portal VITE_PORTAL_KIND=admin VITE_PORTAL_HOME=/portal/admin vite --port 5180",
+    "dev:support": "cross-env VITE_APP_ROLE=portal VITE_PORTAL_KIND=support VITE_PORTAL_HOME=/portal/support vite --port 5181",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jspdf": "^4.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-just-parallax": "^3.1.16",
+    "react-router-dom": "^6.22.1",
+    "recharts": "^3.7.0",
+    "scroll-lock": "^2.1.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.17",
+    "cross-env": "^7.0.3",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.5",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.1.0",
+    "vite-plugin-pwa": "^1.2.0"
+  }
+}

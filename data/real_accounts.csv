@@ -1,0 +1,41 @@
+user_id,username,followers,following,posts,account_age_days,bio,has_profile_pic,likes_per_day,comments_per_day,label,source_id,target_id
+R0001,real_maryam,1450,320,680,920,"UI/UX designer | Tehran",1,52,6,0,R0001,R0005
+R0002,photo_sina,9800,410,2100,2100,"Street & travel photography",1,310,24,0,R0002,R0008
+R0003,food_kitchen_iran,5200,890,1650,1350,"Recipes | home cooking",1,140,10,0,R0003,R0009
+R0004,crypto_signal_ir,110,2100,4300,190,"Fast profit signals",0,260,55,1,R0004,R0018
+R0005,dev_ali_js,2600,380,820,1180,"Frontend dev | React & Vue",1,74,7,0,R0005,R0002
+R0006,free_followers_24,24,2600,7800,70,"Free followers DM now",0,420,90,1,R0006,R0019
+R0007,travel_golnaz,3500,540,970,1500,"Travel | remote work",1,120,11,0,R0007,R0003
+R0008,technews_fa,18500,95,1950,1700,"Daily tech & startup news",1,460,36,0,R0008,R0005
+R0009,poem_nima,430,360,210,2400,"Poems & short writings",1,8,2,0,R0009,R0007
+R0010,botfarm_beta,38,2300,6500,85,"Giveaway & like bots",0,300,80,1,R0010,R0020
+R0011,fitness_sahar,6100,720,2300,1400,"Online coach | workouts",1,150,12,0,R0011,R0012
+R0012,minimal_reza,2100,680,840,980,"Minimal life & design",1,82,6,0,R0012,R0011
+R0013,ghost_clicks_ir,14,2500,8900,55,"Click link for gifts",0,380,110,1,R0013,R0021
+R0014,code_hamid,1950,420,790,1120,"Backend dev | Django",1,68,5,0,R0014,R0008
+R0015,art_mania_sara,780,730,540,1450,"Digital art & sketches",1,30,3,0,R0015,R0007
+R0016,meta_growth_ir,13200,350,2600,1750,"Product & growth hacking",1,270,18,0,R0016,R0002
+R0017,fast_cash_fx,22,1900,4500,95,"Earn daily money DM",0,280,75,1,R0017,R0018
+R0018,recipes_mary,1150,620,470,820,"Easy home recipes",1,28,4,0,R0018,R0003
+R0019,spam_ring_alpha,9,2700,8200,40,"Auto comment system",0,510,130,1,R0019,R0021
+R0020,car_review_ir,5400,510,1600,1320,"Car reviews & tests",1,135,9,0,R0020,R0005
+R0021,gaming_omid,3900,690,1250,980,"PC & console gaming clips",1,118,9,0,R0021,R0009
+R0022,fake_giveaway_1,48,1800,5200,75,"iPhone giveaway follow all",0,290,70,1,R0022,R0023
+R0023,beauty_mona,6700,850,2100,1380,"Makeup & skincare tips",1,180,16,0,R0023,R0024
+R0024,startup_news_ir,8400,440,1900,1600,"Iran startup & VC news",1,230,19,0,R0024,R0008
+R0025,free_gift_card,35,2000,6000,65,"Gift card DM link",0,340,85,1,R0025,R0021
+R0026,language_hossein,2700,530,780,900,"English learning tips",1,60,5,0,R0026,R0009
+R0027,travel_deals_bot,55,1700,4800,80,"Cheap tickets auto bot",0,300,72,1,R0027,R0018
+R0028,photo_narges,3200,460,1100,1230,"Portrait & lifestyle",1,110,8,0,R0028,R0002
+R0029,uiux_armin,1900,410,730,980,"Case studies & dribbble",1,64,6,0,R0029,R0005
+R0030,spam_commenter,18,2400,7500,50,"Auto comment service",0,430,120,1,R0030,R0020
+R0031,book_club_fa,2500,580,860,1500,"Book reviews & quotes",1,40,4,0,R0031,R0007
+R0032,healthy_life_nilo,4300,640,1350,1320,"Healthy food & habits",1,120,10,0,R0032,R0011
+R0033,lottery_fake_ir,28,2100,5600,70,"Daily lottery join link",0,320,78,1,R0033,R0023
+R0034,movie_scene_fa,5100,520,1700,1400,"Movie scenes & reviews",1,145,11,0,R0034,R0008
+R0035,ai_news_mhd,7200,430,1900,1100,"AI tools & tutorials",1,210,15,0,R0035,R0005
+R0036,bot_like_panel,16,2600,8000,60,"Panel for likes & views",0,400,115,1,R0036,R0021
+R0037,handmade_sahar,1800,590,740,980,"Handmade crafts & shop",1,54,5,0,R0037,R0003
+R0038,finance_mohsen,5600,510,1500,1250,"Personal finance & tips",1,160,12,0,R0038,R0012
+R0039,shoutout_market,42,1950,5400,85,"Shoutout & ads DM",0,310,68,1,R0039,R0019
+R0040,real_samira_ui,340,420,360,640,"Real designer portfolio",1,14,2,0,R0040,R0002

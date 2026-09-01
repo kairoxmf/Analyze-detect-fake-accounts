@@ -1,0 +1,101 @@
+    user_id,username,followers,following,posts,account_age_days,bio,has_profile_pic,likes_per_day,comments_per_day,label,source_id,target_id
+U0001,shadowwolf_01,1200,180,540,980,"Cybersecurity researcher. Threat intel.",1,48,6,0,U0001,U0004
+U0002,astro_luna,8500,430,1200,2100,"Space lover | photography | STEM.",1,220,18,0,U0002,U0010
+U0003,real_samira,320,410,340,620,"UI designer. Coffee fan.",1,12,2,0,U0003,U0002
+U0004,crypto_noise,90,1500,4200,220,"Earn fast 🚀",0,210,45,1,U0004,U0023
+U0005,mhd_ai,4100,300,980,1420,"ML engineer | AI research.",1,160,14,0,U0005,U0032
+U0006,quick_profit,15,1900,5200,60,"DM for investment.",0,310,70,1,U0006,U0023
+U0007,urban_story,760,520,620,900,"City vibes + street shots.",1,22,4,0,U0007,U0010
+U0008,newsflash247,21000,60,1800,1600,"Breaking tech news.",1,420,33,0,U0008,U0002
+U0009,silent_rain,280,300,120,2400,"Writer | minimal.",1,4,1,0,U0009,U0007
+U0010,botfarm_alpha,40,1800,6400,90,"Giveaway bots",0,280,90,1,U0010,U0042
+U0011,fitness_maniac,5200,610,2100,1300,"Coach | habits | growth.",1,130,10,0,U0011,U0012
+U0012,travel_mina,2300,900,860,980,"Traveler | explorer.",1,90,8,0,U0012,U0011
+U0013,ghost_spam,12,2100,8900,45,"Click link 🔥",0,400,120,1,U0013,U0042
+U0014,code_arash,1800,400,780,1100,"Backend dev | Flask.",1,70,6,0,U0014,U0005
+U0015,artline_k,600,700,520,1400,"Digital art & illustration.",1,28,3,0,U0015,U0007
+U0016,meta_spark,12000,320,2500,1700,"Product | growth | AI.",1,260,16,0,U0016,U0002
+U0017,fast_cash_iran,20,1600,4300,80,"Buy crypto now",0,260,80,1,U0017,U0023
+U0018,cooking_luna,980,650,460,780,"Food recipes | kitchen.",1,26,5,0,U0018,U0003
+U0019,ghost_click,9,2400,7800,30,"Free followers now",0,500,140,1,U0019,U0042
+U0020,history_desk,410,300,210,2100,"History researcher.",1,10,1,0,U0020,U0009
+U0021,sale_bot_ring,32,1900,5400,50,"Promo drops",0,270,95,1,U0021,U0042
+U0022,techno_saba,2700,520,980,1500,"Tech reviewer.",1,120,9,0,U0022,U0008
+U0023,bad_investor,18,2100,6200,40,"Earn fast | DM",0,340,90,1,U0023,U0017
+U0024,edu_narges,900,450,400,1800,"Teacher | learning.",1,18,2,0,U0024,U0003
+U0025,crypto_signalx,55,1700,4300,90,"Signal group",0,260,65,1,U0025,U0023
+U0026,design_aria,2100,580,760,1300,"Brand designer.",1,65,5,0,U0026,U0003
+U0027,fakeguru101,25,1600,5200,70,"Win money",0,230,75,1,U0027,U0042
+U0028,blockchain_n,4900,720,1200,1200,"Blockchain dev.",1,150,11,0,U0028,U0005
+U0029,cyber_omid,1800,300,520,900,"Security analyst.",1,60,6,0,U0029,U0001
+U0030,sports_ar,640,430,350,980,"Football fan.",1,20,3,0,U0030,U0011
+U0031,ring_bot_1,22,1800,5600,55,"Promo only",0,260,85,1,U0031,U0042
+U0032,ring_bot_2,28,1750,5700,60,"Promo only",0,270,88,1,U0032,U0042
+U0033,ring_bot_3,34,1650,5200,75,"Promo only",0,245,80,1,U0033,U0042
+U0034,ring_bot_4,30,1900,5900,58,"Promo only",0,280,92,1,U0034,U0042
+U0035,ring_bot_5,26,1850,5400,65,"Promo only",0,255,86,1,U0035,U0042
+U0036,news_tech,7600,390,1400,1800,"Tech news daily.",1,190,14,0,U0036,U0008
+U0037,doc_maryam,1200,320,600,1600,"Medical researcher.",1,44,4,0,U0037,U0024
+U0038,gamehub_ir,3400,780,1500,1400,"Gaming hub.",1,120,9,0,U0038,U0036
+U0039,ads_pusher,18,2000,7000,40,"Clicks + money",0,310,110,1,U0039,U0021
+U0040,beauty_saba,2200,650,900,1200,"Beauty tips.",1,90,7,0,U0040,U0012
+U0041,science_lab,4100,340,880,1700,"Science daily.",1,140,9,0,U0041,U0002
+U0042,bot_cluster_core,12,2200,9000,35,"Join now",0,450,150,1,U0042,U0039
+U0043,eco_iran,530,420,260,1500,"Eco lifestyle.",1,12,2,0,U0043,U0024
+U0044,marketing_ray,3200,910,1400,900,"Growth marketing.",1,120,10,0,U0044,U0016
+U0045,free_crypto_drop,16,2100,6500,55,"Drop live",0,320,120,1,U0045,U0039
+U0046,data_nima,2400,500,700,1300,"Data scientist.",1,85,7,0,U0046,U0005
+U0047,film_maker,980,610,520,1100,"Film director.",1,30,4,0,U0047,U0015
+U0048,fake_deal,10,2300,8000,25,"Deal now",0,380,130,1,U0048,U0039
+U0049,teacher_ali,860,420,360,1500,"Math teacher.",1,18,2,0,U0049,U0024
+U0050,music_wave,4100,720,1600,1000,"Music label.",1,150,11,0,U0050,U0040
+U0051,spam_dropper,14,2100,7200,45,"Click fast",0,360,115,1,U0051,U0042
+U0052,ai_researcher,6200,520,1600,1500,"AI research & ML.",1,210,15,0,U0052,U0005
+U0053,trust_dev,3300,420,900,1200,"Full-stack dev.",1,110,9,0,U0053,U0014
+U0054,bot_flood,17,2000,7600,35,"Promo now",0,330,120,1,U0054,U0042
+U0055,city_report,2700,360,720,1700,"City news.",1,88,6,0,U0055,U0008
+U0056,education_plus,1400,480,620,1600,"Learning for all.",1,40,4,0,U0056,U0024
+U0057,spam_deal_x,13,2100,6900,50,"DM fast",0,340,110,1,U0057,U0042
+U0058,medic_naz,1000,410,540,1800,"Health tips.",1,32,3,0,U0058,U0037
+U0059,robotic_lab,3600,500,800,1400,"Robotics team.",1,120,8,0,U0059,U0005
+U0060,clickfarm,11,2400,8500,20,"Grow now",0,390,140,1,U0060,U0042
+U0061,design_lab,1900,600,750,1300,"Design studio.",1,60,6,0,U0061,U0026
+U0062,eco_green,680,380,280,1600,"Green habits.",1,16,2,0,U0062,U0043
+U0063,growth_hack,4200,900,1800,950,"Growth hacking.",1,130,12,0,U0063,U0044
+U0064,spam_ring_8,12,2100,7400,38,"Earn fast",0,350,120,1,U0064,U0042
+U0065,photo_mary,1700,560,680,1400,"Photography.",1,55,5,0,U0065,U0007
+U0066,bot_ring_9,15,2000,7200,35,"Giveaway",0,330,118,1,U0066,U0042
+U0067,news_global,8000,400,1600,1800,"Global news.",1,210,14,0,U0067,U0008
+U0068,cyber_sh,1400,350,520,900,"Blue team.",1,50,5,0,U0068,U0001
+U0069,free_cash_ir,19,1900,6100,70,"Cash now",0,290,105,1,U0069,U0023
+U0070,ml_shirin,2800,420,760,1200,"ML engineer.",1,100,8,0,U0070,U0052
+U0071,spam_drop_x,16,2050,7300,42,"Free ads",0,340,112,1,U0071,U0042
+U0072,art_vision,900,480,520,1300,"Creative art.",1,28,3,0,U0072,U0015
+U0073,bot_cluster_2,14,2300,8800,25,"Join now",0,420,140,1,U0073,U0042
+U0074,market_watch,5200,620,1400,1400,"Markets today.",1,160,12,0,U0074,U0044
+U0075,spam_invest,13,2100,7100,40,"Invest now",0,345,110,1,U0075,U0042
+U0076,health_line,1200,520,620,1300,"Health routine.",1,38,3,0,U0076,U0058
+U0077,bot_ring_10,18,2000,7600,35,"Promo now",0,340,118,1,U0077,U0042
+U0078,finance_aria,3600,480,980,1200,"Finance pro.",1,140,9,0,U0078,U0044
+U0079,spam_flash,10,2400,8400,22,"Click fast",0,400,135,1,U0079,U0042
+U0080,code_mentor,2100,450,760,1100,"Coding mentor.",1,90,7,0,U0080,U0014
+U0081,spam_super,12,2200,8000,30,"Promo fast",0,360,120,1,U0081,U0042
+U0082,eco_travel,720,460,320,1400,"Eco travel.",1,18,2,0,U0082,U0043
+U0083,bot_ring_11,15,2100,7500,38,"Free now",0,340,118,1,U0083,U0042
+U0084,media_lab,2400,520,900,1500,"Media lab.",1,100,8,0,U0084,U0036
+U0085,spam_mega,14,2300,8700,24,"Click now",0,420,138,1,U0085,U0042
+U0086,ai_ops,4600,560,1200,1400,"AI ops team.",1,160,12,0,U0086,U0052
+U0087,spam_energy,12,2200,8100,28,"Earn now",0,370,120,1,U0087,U0042
+U0088,travel_plus,1800,600,840,1100,"Travel guide.",1,70,6,0,U0088,U0012
+U0089,bot_ring_12,16,2100,7700,34,"Free promo",0,350,116,1,U0089,U0042
+U0090,creative_pool,1500,500,680,1300,"Creative studio.",1,58,5,0,U0090,U0015
+U0091,spam_hunter,13,2300,8800,20,"Promo link",0,430,140,1,U0091,U0042
+U0092,data_visual,3200,540,980,1400,"Data visual.",1,120,9,0,U0092,U0046
+U0093,bot_ring_13,14,2100,7800,30,"Click now",0,360,118,1,U0093,U0042
+U0094,eco_waves,620,400,310,1500,"Nature vibes.",1,16,2,0,U0094,U0043
+U0095,spam_zero,11,2400,8600,24,"DM now",0,410,135,1,U0095,U0042
+U0096,news_ar,6600,380,1500,1700,"Local news.",1,190,13,0,U0096,U0008
+U0097,bot_ring_14,15,2200,7900,28,"Promo fast",0,370,120,1,U0097,U0042
+U0098,science_plus,2900,500,860,1500,"Science notes.",1,110,8,0,U0098,U0041
+U0099,spam_max,12,2300,8300,26,"Deal now",0,390,130,1,U0099,U0042
+U0100,team_builder,2600,520,880,1300,"Team lead.",1,100,7,0,U0100,U0044

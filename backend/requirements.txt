@@ -1,0 +1,9 @@
+python-dotenv
+Flask
+flask-cors
+pandas
+scikit-learn
+networkx
+numpy
+instagrapi
+openai

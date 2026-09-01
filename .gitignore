@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# Node
+node_modules/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# Large archive / dataset folder
+archive (6)/
+
+# Logs
+*.log
+
+# Python cache
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,0 +1,228 @@
+{
+  "users": {
+    "2": {
+      "id": "2",
+      "display_name": "",
+      "created_at": "2026-02-26T01:19:43Z",
+      "updated_at": "2026-02-26T16:35:22Z",
+      "lifetime_earned_usd": 0,
+      "available_usd": 0,
+      "pending_claims": 0,
+      "approved_claims": 0,
+      "withdrawn_usd": 0,
+      "clan_id": "",
+      "special_badges": [],
+      "fast_lane_reviewer": false,
+      "referral_code": "24E2874B",
+      "referred_by": "",
+      "title": "",
+      "nickname": "",
+      "streak_freeze_dates": [
+        "2026-02-25"
+      ]
+    },
+    "3": {
+      "id": "3",
+      "display_name": "",
+      "created_at": "2026-02-26T19:14:47Z",
+      "updated_at": "2026-04-19T17:39:16Z",
+      "lifetime_earned_usd": 0,
+      "available_usd": 0,
+      "pending_claims": 0,
+      "approved_claims": 0,
+      "withdrawn_usd": 0,
+      "clan_id": "",
+      "special_badges": [],
+      "fast_lane_reviewer": false,
+      "referral_code": "EDA94EF8",
+      "referred_by": "",
+      "title": "",
+      "nickname": ""
+    },
+    "4": {
+      "id": "4",
+      "display_name": "",
+      "created_at": "2026-04-23T08:20:36Z",
+      "updated_at": "2026-04-23T08:30:28Z",
+      "lifetime_earned_usd": 0,
+      "available_usd": 0,
+      "pending_claims": 0,
+      "approved_claims": 0,
+      "withdrawn_usd": 0,
+      "clan_id": "",
+      "special_badges": [],
+      "fast_lane_reviewer": false,
+      "referral_code": "F7E0CA15",
+      "referred_by": "",
+      "title": "",
+      "nickname": ""
+    },
+    "5": {
+      "id": "5",
+      "display_name": "",
+      "created_at": "2026-04-26T12:30:30Z",
+      "updated_at": "2026-04-26T12:32:24Z",
+      "lifetime_earned_usd": 0,
+      "available_usd": 0,
+      "pending_claims": 0,
+      "approved_claims": 0,
+      "withdrawn_usd": 0,
+      "clan_id": "",
+      "special_badges": [],
+      "fast_lane_reviewer": false,
+      "referral_code": "B2265D10",
+      "referred_by": "",
+      "title": "",
+      "nickname": ""
+    }
+  },
+  "claims": {},
+  "withdrawals": {},
+  "clans": {},
+  "clan_chat": {},
+  "season_history": [],
+  "events": [
+    {
+      "id": 1,
+      "user_id": "2",
+      "type": "admin_notification",
+      "title": "fff",
+      "time": "2026-02-26T15:39:36Z",
+      "meta": {}
+    },
+    {
+      "id": 2,
+      "user_id": "test",
+      "type": "hunter_of_day",
+      "title": "You are Hunter of the Day!",
+      "time": "2026-02-26T15:40:20Z",
+      "meta": {
+        "date": "2026-02-26"
+      }
+    },
+    {
+      "id": 3,
+      "user_id": "kairox",
+      "type": "hunter_of_day",
+      "title": "You are Hunter of the Day!",
+      "time": "2026-02-26T15:40:34Z",
+      "meta": {
+        "date": "2026-02-26"
+      }
+    },
+    {
+      "id": 4,
+      "user_id": "2",
+      "type": "admin_notification",
+      "title": "rrtgrhbr",
+      "time": "2026-04-26T12:31:39Z",
+      "meta": {}
+    },
+    {
+      "id": 5,
+      "user_id": "3",
+      "type": "admin_notification",
+      "title": "rrtgrhbr",
+      "time": "2026-04-26T12:31:39Z",
+      "meta": {}
+    },
+    {
+      "id": 6,
+      "user_id": "4",
+      "type": "admin_notification",
+      "title": "rrtgrhbr",
+      "time": "2026-04-26T12:31:39Z",
+      "meta": {}
+    },
+    {
+      "id": 7,
+      "user_id": "5",
+      "type": "admin_notification",
+      "title": "rrtgrhbr",
+      "time": "2026-04-26T12:31:39Z",
+      "meta": {}
+    }
+  ],
+  "active_events": {
+    "golden_week": true,
+    "double_reward": true
+  },
+  "clan_matches": {},
+  "gamification_config": {
+    "golden_hour": null,
+    "birthday_bonus_usd": 10,
+    "streak_freeze_per_month": 1,
+    "comeback_bonus_usd": 5,
+    "lucky_wheel_enabled": true,
+    "lucky_wheel_every_n": 5,
+    "season_story": "ss",
+    "hidden_badges": [],
+    "rivalry_history": [],
+    "lucky_day_dow": null,
+    "lucky_day_bonus_pct": 15,
+    "combo_bonus_per_report": 2,
+    "combo_max_pct": 20,
+    "flash_challenges": [],
+    "hidden_missions": [],
+    "league_thresholds": {
+      "bronze": 1,
+      "silver": 500,
+      "gold": 2001,
+      "platinum": 5002
+    }
+  },
+  "duels": {
+    "692ccae1978c": {
+      "id": "692ccae1978c",
+      "user_a": "2",
+      "user_b": "test",
+      "week_key": "2026-W09",
+      "status": "pending",
+      "created_at": "2026-02-26T15:38:57Z",
+      "scores": {
+        "2": 0,
+        "test": 0
+      }
+    }
+  },
+  "predictions": {},
+  "reactions": {},
+  "friends": {},
+  "profile_comments": {},
+  "easter_eggs": {
+    "SENTINEL2025": 5,
+    "HUNTER": 3,
+    "LEGEND": 10
+  },
+  "daily_wheel_spins": {
+    "2": {
+      "date": "2026-02-26",
+      "count": 1,
+      "total_usd": 4
+    },
+    "3": {
+      "date": "2026-04-19",
+      "count": 1,
+      "total_usd": 4
+    },
+    "4": {
+      "date": "2026-04-23",
+      "count": 1,
+      "total_usd": 2
+    },
+    "5": {
+      "date": "2026-04-26",
+      "count": 1,
+      "total_usd": 5
+    }
+  },
+  "hunter_of_day": {
+    "2026-02-26": "kairox"
+  },
+  "annual_hall_of_fame": [],
+  "next_claim_id": 1,
+  "next_withdrawal_id": 1,
+  "next_clan_id": 1,
+  "next_chat_id": 1,
+  "next_event_id": 8
+}
